@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+*.ipk
+.DS_Store
+mac/.build/
+mac/.swiftpm/
+dist/
+# Local LG Dev Mode session token / last-extend stamp (never commit).
+**/devmode.json
+*.keychain-db
+*.keychain

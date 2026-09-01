@@ -1,0 +1,20 @@
+{
+  "id": "com.gbuc.imagicremote",
+  "title": "iMagicRemote",
+  "main": "index.html",
+  "icon": "icon-v5.png",
+  "largeIcon": "largeIcon-v5.png",
+  "type": "web",
+  "vendor": "gbuc",
+  "version": "1.2.3",
+  "disableBackHistoryAPI": true,
+  "resolution": "1920x1080",
+  "iconColor": "#000000",
+  "bgColor": "#000000",
+  "supportGIP": true,
+  "requiredPermissions": [
+    "network.connection",
+    "network.client",
+    "time.query"
+  ]
+}
